@@ -51,4 +51,4 @@ Please open issues here on Github if you find errors or bugs in the implementati
 
 # License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
-This project is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT SAP except as noted otherwise in the [LICENSE file](https://github.com/SAP/cf-web-server-benchmark-tests/blob/master/LICENSE).
+This project is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the [LICENSE file](https://github.com/SAP/cf-web-server-benchmark-tests/blob/master/LICENSE).
