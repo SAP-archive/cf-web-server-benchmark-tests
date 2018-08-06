@@ -1,0 +1,8 @@
+{
+  "name": "my-node-benchmark",
+  "version": "0.0.1",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  }
+}

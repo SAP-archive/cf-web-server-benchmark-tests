@@ -1,0 +1,8 @@
+---
+applications:
+- name: java-benchmark-test
+  memory: 1G
+  disk_quota: 1G
+  instances: 1
+  buildpack: java_buildpack #sap_java_buildpack
+  path: Server.jar

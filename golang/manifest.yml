@@ -1,0 +1,10 @@
+---
+applications:
+- name: go-benchmark-test
+  memory: 16M
+  disk_quota: 16M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
+  command: main
+  env:
+     GOPACKAGENAME: main
