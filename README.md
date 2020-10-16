@@ -1,3 +1,7 @@
+# Cloud Foundry Web Server Brenchmark Test
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cf-web-server-benchmark-tests)](https://api.reuse.software/info/github.com/SAP-samples/cf-web-server-benchmark-tests)
+
 # Description
 >Each programming language has been designed for a specific use-case and performs well / resource efficient for this use-case. But this doesn’t mean that a programming language is suited for all .
 
@@ -49,6 +53,3 @@ The purpose of these apps is to demonstrate the memory consumption and CPU utili
 # How to obtain support
 Please open issues here on Github if you find errors or bugs in the implementation. You can use the comments section of the [blog post](https://blogs.sap.com/2018/07/27/comparing-different-application-runtimes-on-sap-cloud-platform-cloud-foundry/) for general remarks.
 
-# License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
-This project is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the [LICENSE file](https://github.com/SAP/cf-web-server-benchmark-tests/blob/master/LICENSE).
