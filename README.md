@@ -5,12 +5,12 @@
 # Description
 >Each programming language has been designed for a specific use-case and performs well / resource efficient for this use-case. But this doesn’t mean that a programming language is suited for all .
 
-This repository contains three almost identical simple web server applications (written in Java, Golang and Node.js respectively) to demonstrate their distinct runtime properties hands-on. We have measures the footprints of those applications, which ran on SAP Cloud Platform Cloud Foundry, to validate the  hypothesis.
+This repository contains three almost identical simple web server applications (written in Java, Golang and Node.js respectively) to demonstrate their distinct runtime properties hands-on. We have measured the footprints of those applications, which ran on SAP BTP, Cloud Foundry environment, to validate the  hypothesis.
 
 Check out this [blog post](https://blogs.sap.com/2018/07/27/comparing-different-application-runtimes-on-sap-cloud-platform-cloud-foundry/) for more details and the results of the experiment.
 # Requirements
-* [Sign up for a free trial account on SAP Cloud Platform](https://www.sap.com/developer/tutorials/hcp-create-trial-account.html)
-* [Getting started with Cloud Foundry (CLI)](https://www.sap.com/developer/tutorials/hcp-cf-getting-started.html)
+* [Get a Free Account on SAP BTP Trial](https://www.sap.com/developer/tutorials/hcp-create-trial-account.html) or use the [Free Tier](https://blogs.sap.com/2021/07/01/exploring-btps-new-free-tier-plans/)
+* [Install the Cloud Foundry Command Line Interface (CLI)](https://developers.sap.com/tutorials/cp-cf-download-cli.html)
 
 # Download and Installation
 Please clone this repository and use `cf push` to deploy all three applications to you Cloud Foundry space.
